@@ -1,1 +1,54 @@
 Important plugins list:
+all-in-one-seo-pack
+better-wp-security
+wp-simple-galleries
+email-newsletter
+posts-to-posts
+simple-video-embedder
+store-locator
+wp-pagenavi
+wp-postviews
+any-mobile-theme-switcher
+contact-form-7 | really-simple-captcha | contact-form-7-to-database-extension
+disqus-comment-system
+qtranslate | polylang
+categories-images
+image-widget
+wordpress-form-manager
+nextgen-gallery
+Google XML Sitemaps
+seo yoast
+allow-php-in-posts-and-pages
+Advanced Ajax Page Loader
+rich-tax-description-editor
+Custom Post Type UI | Advanced Custom Fields
+breadcrumb-navxt
+sem-author-image | wp-user-avatar
+taxonomy-terms-order
+post-types-order
+export-user-data
+wp-show-ids
+Add Logo to Admin
+wp-fullcalendar
+tablepress
+user-role-editor
+wp-user-avatar
+wp-awesome-faq
+theme-my-login
+any-mobile-theme-switcher
+theme-check
+gd-star-rating
+ultimate-fields
+
+woocommerce plugins :
+woocommerce
+yith-woocommerce-wishlist
+Display Product for WooCommerce
+woo-product-importer-master
+WooCommerce Catalog Visibility Options			Provides the ability to hide prices
+search-by-sku-for-woocommerce
+wholesale-pricing-for-woocommerce
+events-manager
+yith-woocommerce-ajax-navigation
+WooSidebar
+woocommerce-product-archive-customiser
